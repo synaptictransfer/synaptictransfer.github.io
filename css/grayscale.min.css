@@ -21,6 +21,9 @@ h6 {
   font-weight: 700;
   letter-spacing: 1px;
 }
+h4 {
+  margin: 75px 0 35px 0;
+}
 p {
   margin: 0 0 25px;
   font-size: 18px;
@@ -276,7 +279,7 @@ a:focus {
   background-color: transparent;
 }
 .banner-social-buttons {
-  margin: 16px;
+  margin: 4px 16px 20px 16px;
 }
 footer {
   padding: 50px 0;
@@ -311,6 +314,10 @@ body {
 .logo {
   width: 100%;
   max-width: 500px;
+}
+.companies {
+  width: 100%;
+  max-width: 800px;
 }
 .btn-feedback {
   width: 36px;
